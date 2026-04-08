@@ -17,6 +17,7 @@ D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\p
 D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\security\JwtUtil.java
 D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\repository\CertificateRepository.java
 D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\CertificateController.java
+D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\ContactRequest.java
 D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\service\UserDetailsServiceImpl.java
 D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\service\AuthService.java
 D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\ExperienceController.java
