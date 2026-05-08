@@ -1,34 +1,34 @@
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\entity\User.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\PortfolioController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\repository\UserRepository.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\DashboardController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\ProjectController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\security\SecurityConfig.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Skill.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\DashboardResponse.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\LoginRequest.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\TemplateRequest.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Internship.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\service\PortfolioService.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\TemplateOption.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\PortfolioBuilderApplication.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\RegisterRequest.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Experience.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\security\JwtUtil.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\repository\CertificateRepository.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\CertificateController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\ContactRequest.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\service\UserDetailsServiceImpl.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\service\AuthService.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\ExperienceController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\repository\ExperienceRepository.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\InternshipController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\repository\InternshipRepository.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\SkillController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\repository\ProjectRepository.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Certificate.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\repository\SkillRepository.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\controller\AuthController.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\dto\AuthResponse.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\security\JwtAuthFilter.java
-D:\Fullstack\fsd project\amazon -q2(patti)\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Project.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\dto\RegisterRequest.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Certificate.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\PortfolioBuilderApplication.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\InternshipController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\repository\InternshipRepository.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\service\AuthService.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\AuthController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\dto\AuthResponse.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\security\SecurityConfig.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\entity\User.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\repository\SkillRepository.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\dto\ContactRequest.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\dto\DashboardResponse.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\repository\CertificateRepository.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\ExperienceController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Project.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\repository\ExperienceRepository.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\security\JwtAuthFilter.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\service\UserDetailsServiceImpl.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\CertificateController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Experience.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\repository\UserRepository.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\SkillController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Internship.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\security\JwtUtil.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\entity\Skill.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\DashboardController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\ProjectController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\controller\PortfolioController.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\dto\TemplateRequest.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\repository\ProjectRepository.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\service\PortfolioService.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\dto\TemplateOption.java
+D:\Fullstack\fsd project\amazon -q2(patti) - Copy\backend\src\main\java\com\portfolio\portfoliobuilder\dto\LoginRequest.java
